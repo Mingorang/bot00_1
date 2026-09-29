@@ -1,1 +1,4 @@
-agent-framework==1.0.0rc6
+agent-framework>=1.0.0rc6,<2.0.0
+agent-framework-foundry>=1.0.0rc6,<2.0.0
+azure-identity>=1.17.0
+python-dotenv>=1.0.0
